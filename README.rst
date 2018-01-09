@@ -6,7 +6,7 @@ PyQT4 based application for converting ArcGIS 10.x map documents to QGIS project
 Windows Installation
 --------------------
 
-Prerequisites:
+Prerequisites::
 * ArcGIS 10.x
 * PyQT4
 
